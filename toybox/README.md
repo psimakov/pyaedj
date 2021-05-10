@@ -66,18 +66,21 @@ Few selected features:
 
 
 ## Screnshots (Desktop)
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-00-login.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-01-register.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-01-register@validation.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-02-home.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-04-profile@edit.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-04-profile@updated.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-04-profile@validation.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-06-members.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-07-posts.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-08-post@edit.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-09-posts.png">
-<img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-10-voteup.png">
+
+<p>
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-00-login.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-01-register.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-01-register@validation.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-02-home.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-04-profile@edit.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-04-profile@updated.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-04-profile@validation.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-06-members.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-07-posts.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-08-post@edit.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-09-posts.png">
+  <img width="200px" src="https://raw.githubusercontent.com/psimakov/pyaedj/master/docs/img/w-10-voteup.png">
+</p>
 
 ## Screnshots (Mobile)
 
